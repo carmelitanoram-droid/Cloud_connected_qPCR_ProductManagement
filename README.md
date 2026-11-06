@@ -32,6 +32,13 @@ Telemetry was then examined at the appropriate event, session, and account level
 | Cloud synchronization | 26 accounts affected; 28 recovered sessions and 5 with no recorded completion; median normal/recovered durations: 72/756 seconds | Reduce recovery delays and improve failure guidance |
 | Experiment setup | 457 sessions reopened; 46 accounts affected | Guided setup and consolidated pre-run review |
 
+## Product Insights Dashboard
+
+The Excel dashboard summarizes customer problem prevalence, telemetry evidence, and RICE-based feature prioritization, supporting the proposed product roadmap.
+
+![Cloud-connected qPCR Product Insights Dashboard](dashboard/qPCR_dashboard_preview.png)
+ 
+
 **Interpretation caution:** A reopened setup session does not necessarily represent avoidable rework. Longer recovered synchronization sessions do not isolate the time attributable solely to retries.
 
 ## Product prioritization
