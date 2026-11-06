@@ -36,7 +36,7 @@ Telemetry was then examined at the appropriate event, session, and account level
 
 The Excel dashboard summarizes customer problem prevalence, telemetry evidence, and RICE-based feature prioritization, supporting the proposed product roadmap.
 
-![Cloud-connected qPCR Product Insights Dashboard](dashboard/qPCR_dashboard_preview.png)
+![qPCR Product Insights Dashboard](dashboard/qPCR_dashboard.png)
  
 
 **Interpretation caution:** A reopened setup session does not necessarily represent avoidable rework. Longer recovered synchronization sessions do not isolate the time attributable solely to retries.
